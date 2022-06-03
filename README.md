@@ -1,4 +1,4 @@
-# Traffic Signal Monitering with Reinforcement Learning
+# Traffic Signal Automation with Reinforcement Learning
 
 Simulation Demo
 
